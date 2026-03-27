@@ -2,7 +2,7 @@
 
 ### **An immersive, high-performance ocean storytelling experience.**
 
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ocean-depths.vercel.app)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ocean-depths-rust.vercel.app/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/RonitkumarSoni/Ocean-Depths)
 
 ---
