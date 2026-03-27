@@ -25,3 +25,10 @@ dist-ssr
 
 # Vite
 .vite
+
+# Agents
+.agents/
+SKILL*.md
+design_architecture.md
+requirement.md
+hackathon_submission.md
